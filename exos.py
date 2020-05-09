@@ -232,6 +232,9 @@ import sys
 
 #converter("AE 4000")
 
+
+
+
 #EPISODE 5 
 #myList = ["\b\t80cm\t60cm\n" , "\b\t81cm\t51cm\n" , "\b\t105cm\t145cm\n" ]
 #print(myList)
@@ -241,6 +244,11 @@ import sys
 #  res = list(map(int, temp))
 #  if res[0] < res[1] :
 #    print(res[0])
+
+
+
+
+
 
 #EPISODE 6
 #import re
@@ -263,6 +271,10 @@ import sys
 #    f.close()
 #except FileNotFoundError:
 #    print('File does not exist')
+
+
+
+
 
 
 #EPISODE 7
