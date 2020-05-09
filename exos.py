@@ -137,3 +137,65 @@ import re
 #    print("Est un palindrome")
 #else:
 #    print("No")
+
+#18
+#string = str(input("variable : "))
+#
+#if(re.search(r"^[^@]+@[^@]+\.[^@]+$",string)):  
+#  print("ok")
+
+#exerice 19
+#truc = []
+#print(truc)
+#machin = ["0.0", "0.0", "0.0", "0.0", "0.0",]
+#print(machin)
+
+#exercice 20
+#print(" ------ ")
+#for x in range(0,4) :
+#    print(x)
+#print(" ------ ")
+#for x in range(4,8) :
+#    print(x)
+#print(" ------ ")
+#for x in range(2,9) :
+#    print(x)
+#print(" ------ ")
+
+#chose = [0, 1, 2, 3, 4, 5]
+
+#if 3 in chose :
+#    print("3 is ok")
+#else : 
+#    print("3 is not ok")
+#if 6 in chose : 
+#    print("6 is ok")
+#else : 
+#    print("6 is not ok")
+
+#ex21
+#nbString = int(input("nb string : "))
+#f = open("data.txt", "a+")
+#for x in range(nbString):
+#  temp = str(input("Mot : "))
+#  f.write(temp)
+#  f.write("\n")
+#f.close()
+
+#22
+#f = open('data.txt')
+#for line in f:
+#  if(re.search(r"^[^@]+@[^@]+\.[^@]+$", str(line))):
+#    print(line)
+#f.close()
+
+#23
+#def compterMots(str):
+#  count = dict()
+#  words = str.split()
+#  for word in words:
+#      if word in count:
+#          count[word] += 1
+#      else:
+#          count[word] = 1
+#  return count
