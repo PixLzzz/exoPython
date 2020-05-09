@@ -2,6 +2,7 @@ import math
 import re
 import sys
 
+#EPISODE 2 :
 # ex1
 # time = 6.892
 # distance = 19.7
@@ -217,7 +218,7 @@ import sys
 #somme(montuple[0], montuple[1], montuple[2])
 
 
-#Episode 5 
+#EPISODE 5 
 #myList = ["\b\t80cm\t60cm\n" , "\b\t81cm\t51cm\n" , "\b\t105cm\t145cm\n" ]
 #print(myList)
 
