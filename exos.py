@@ -1,5 +1,6 @@
 import math
 import re
+import sys
 
 # ex1
 # time = 6.892
@@ -199,3 +200,18 @@ import re
 #      else:
 #          count[word] = 1
 #  return count
+
+# ex 24
+
+#r = int(sys.argv[1])
+#pi = 3.1415926535897931
+#V= 4.0/3.0*pi* r**3
+#print('The volume of the sphere is: ',V," pour un rayon de ",r)
+
+#exercice 25
+
+#def somme(a, b, c) :
+#    return print((a+b+c))
+
+#montuple = (1, 2, 1)
+#somme(montuple[0], montuple[1], montuple[2])
