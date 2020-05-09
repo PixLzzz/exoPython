@@ -218,6 +218,20 @@ import sys
 #somme(montuple[0], montuple[1], montuple[2])
 
 
+
+
+# Episode 3
+#def converter(conversion):
+#    euros = 0
+#    aryAry = 0
+
+#    if conversion[:2] == "AE":
+#        print(float(conversion[3:])*aryAry)
+#    elif conversion[:2] == "EA":
+#        print(float(conversion[3:])*euros)
+
+#converter("AE 4000")
+
 #EPISODE 5 
 #myList = ["\b\t80cm\t60cm\n" , "\b\t81cm\t51cm\n" , "\b\t105cm\t145cm\n" ]
 #print(myList)
