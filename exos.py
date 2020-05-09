@@ -255,10 +255,11 @@ import sys
 #        for x in f :
 #            temp = re.findall(r'\d+', x)
 #            res = list(map(int, temp))
-#            if res[0] < res[1]:
-#                print(x ," OUI")
-#            else :
-#                print(x, " NON")
+#if res[0] < res[1]:
+#                print("[oui] la première valeur : ", res[0], "est inferieur à la deuxième valeur :", res[1])
+#            else:
+#                print("[non] la première valeur : ", res[0], "est superieur à la deuxième valeur :", res[1])
+
 #    f.close()
 #except FileNotFoundError:
 #    print('File does not exist')
