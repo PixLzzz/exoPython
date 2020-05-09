@@ -83,3 +83,57 @@ import re
 #     if 1 <= n <= 10:
 #         print(n)
 #         check = False
+
+
+# ex 12
+# my_list = ["yaya","yoyo", "yeye"]
+# for i in my_list:
+#     print(i)
+
+# ex 13
+
+# for i in range(1,15):
+#     if i%3==0:
+#         print(i)
+
+#ex 14
+
+# n = int(input("n : "))
+# i = 0
+# while i < n:
+#     i+=1
+#     if i%2==0:
+#       print(i)
+
+# for r in range(1,n+1):
+#     if r%2==0:
+#         print(r)
+
+#ex 15
+
+# mliste = [17, 38, 10, 25, 72]
+# mliste.sort()
+# print(mliste)
+# mliste.append(12)
+# print(mliste)
+# mliste.reverse()
+# print(mliste)
+# print(mliste.index(17))
+# mliste.remove(38)
+# print(mliste)
+# print(mliste[1:3])
+# print(mliste[:2])
+# print(mliste[2:])
+# print(set(mliste))
+
+# ex 16
+#s = "loup"
+#print(s[::-1])
+
+# ex 17
+#a = "aza"
+#b = a [:: -1]
+#if a==b:
+#    print("Est un palindrome")
+#else:
+#    print("No")
