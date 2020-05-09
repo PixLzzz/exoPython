@@ -222,8 +222,8 @@ import sys
 
 # Episode 3
 #def converter(conversion):
-#    euros = 0
-#    aryAry = 0
+#    euros = 0.00024
+#    aryAry = 4168.79
 
 #    if conversion[:2] == "AE":
 #        print(float(conversion[3:])*aryAry)
